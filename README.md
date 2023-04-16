@@ -27,5 +27,5 @@ Assurez-vous d'avoir Flutter et Dart installés sur votre machine.
 - Exécutez la commande flutter pub get pour obtenir les dépendances du projet.
 - Exécutez le projet en utilisant un émulateur ou un appareil physique.
 
-![Screenshot_1681639851](https://user-images.githubusercontent.com/109220808/232294111-0b080c1e-4bb1-40e4-88db-da36f0580f20.png)
-![Screenshot_1681639868](https://user-images.githubusercontent.com/109220808/232294201-fbe9cf03-7fc1-4c2d-ba57-dfcfd9ac8707.png)
+![Screenshot_1681639851](https://user-images.githubusercontent.com/109220808/232295526-94f10d3b-ce42-4ff2-8e93-a83a1d47a1ef.png)
+
