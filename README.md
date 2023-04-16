@@ -29,6 +29,6 @@ Assurez-vous d'avoir Flutter et Dart installés sur votre machine.
 - 
 ![Screenshot_1681639851](https://user-images.githubusercontent.com/109220808/232295831-ddb8548d-8bbb-4743-bbc6-4d91489db3ec.png)
 
-![Screenshot_1681639868](https://user-images.githubusercontent.com/109220808/232296195-08719cf7-8f21-404b-98ec-f09ad4c13cec.png)
+![Screenshot_1681639868](https://user-images.githubusercontent.com/109220808/232296474-dba4ae5e-c4c2-4b94-a5ea-dd8304bbcd1a.png)
 
 
