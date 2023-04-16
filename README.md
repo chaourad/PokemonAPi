@@ -22,8 +22,10 @@ Comment exécuter le projet
 Voici les étapes pour exécuter le projet Pokédex Flutter sur votre machine :
 
 Assurez-vous d'avoir Flutter et Dart installés sur votre machine.
-Clonez ce projet à partir du dépôt GitHub.
-Ouvrez le projet dans votre IDE Flutter préféré (par exemple, Android Studio, VSCode).
-Exécutez la commande flutter pub get pour obtenir les dépendances du projet.
-Exécutez le projet en utilisant un émulateur ou un appareil physique.
+- Clonez ce projet à partir du dépôt GitHub.
+- Ouvrez le projet dans votre IDE Flutter préféré (par exemple, Android Studio, VSCode).
+- Exécutez la commande flutter pub get pour obtenir les dépendances du projet.
+- Exécutez le projet en utilisant un émulateur ou un appareil physique.
 
+![Screenshot_1681639851](https://user-images.githubusercontent.com/109220808/232294111-0b080c1e-4bb1-40e4-88db-da36f0580f20.png)
+![Screenshot_1681639868](https://user-images.githubusercontent.com/109220808/232294201-fbe9cf03-7fc1-4c2d-ba57-dfcfd9ac8707.png)
