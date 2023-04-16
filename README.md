@@ -6,9 +6,8 @@ Mon projet est une application mobile qui permet aux utilisateurs de consulter d
 
 Fonctionnalités implémentées
 
-Liste des Pokémon : Les utilisateurs peuvent consulter une liste de Pokémon avec leurs noms, images miniatures . La liste peut être paginée pour permettre aux utilisateurs de parcourir les Pokémon par lots.
-Vue détaillée des Pokémon : Les utilisateurs peuvent cliquer sur un Pokémon dans la liste pour afficher les informations détaillées du Pokémon, comme son type, ses capacités, ses statistiques.
-Interface utilisateur conviviale : L'application dispose d'une interface utilisateur attrayante et conviviale qui permet aux utilisateurs de naviguer facilement entre les différentes fonctionnalités, de visualiser les détails des Pokémon.
+- Liste des Pokémon : Les utilisateurs peuvent consulter une liste de Pokémon avec leurs noms, images miniatures . La liste peut être paginée pour permettre aux utilisateurs de parcourir les Pokémon par lots.
+- Vue détaillée des Pokémon : Les utilisateurs peuvent cliquer sur un Pokémon dans la liste pour afficher les informations détaillées du Pokémon, comme son type, ses capacités, ses statistiques.
 
 Technologies utilisées
 
